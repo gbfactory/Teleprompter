@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Teleprompter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Teleprompter_jar</output-path>
+    <root id="archive" name="Teleprompter.jar">
+      <element id="module-output" name="Teleprompter" />
+    </root>
+  </artifact>
+</component>
